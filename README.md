@@ -64,20 +64,20 @@ Half Adder:
 Logic symbol:
 ![OUTPUT](https://github.com/gunasekhar159/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/im1.jpg?raw=True)
 ### RTL
-![OUTPUT]()
+![OUTPUT](https://github.com/gunasekhar159/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/im%202.jpg?raw=True)
 ### Truthtable:
-![OUTPUT]()
+![OUTPUT](https://github.com/gunasekhar159/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/img%203.jpg?raw=True)
 ### TIMING DIAGRAM
-![OUTPUT]()
+![OUTPUT](https://github.com/gunasekhar159/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/img%204.jpg?raw=True)
 ### Full Adder:
 Logic symbol:
-![OUTPUT]()
+![OUTPUT](https://github.com/gunasekhar159/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/img%205.jpg?raw=True)
 ### RTL:
-![OUTPUT]()
+![OUTPUT](https://github.com/gunasekhar159/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/img%206.jpg?raw=True)
 ### TRUTH TABLE 
-![OUTPUT]()
+![OUTPUT](https://github.com/gunasekhar159/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/img%207.jpg?raw=True)
 ### TIMING DIAGRAM:
-[OUTPUT]()
+[OUTPUT](https://github.com/gunasekhar159/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/fd%20trim%20img%208.jpg?raw=True)
 
 ### Result:
 Thus, a half adder and full adder circuit is designed to verify its truth table in Quartus using Verilog programming.
