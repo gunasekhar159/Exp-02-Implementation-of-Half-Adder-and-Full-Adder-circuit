@@ -62,7 +62,7 @@ endmodule
 ### Output:
 Half Adder:
 Logic symbol:
-![OUTPUT]()
+![OUTPUT](https://github.com/gunasekhar159/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/im1.jpg?raw=True)
 ### RTL
 ![OUTPUT]()
 ### Truthtable:
