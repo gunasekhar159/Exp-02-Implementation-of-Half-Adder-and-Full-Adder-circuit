@@ -77,7 +77,7 @@ Logic symbol:
 ### TRUTH TABLE 
 ![OUTPUT](https://github.com/gunasekhar159/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/img%207.jpg?raw=True)
 ### TIMING DIAGRAM:
-[OUTPUT](https://github.com/gunasekhar159/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/img%208.jpg?raw=True)
+![img 8](https://user-images.githubusercontent.com/95043391/164965432-4d87677d-431c-44d2-bc56-96c8b3a6458a.jpg)
 
 ### Result:
 Thus, a half adder and full adder circuit is designed to verify its truth table in Quartus using Verilog programming.
