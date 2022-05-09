@@ -70,7 +70,7 @@ Logic symbol:
 ### Truthtable:
 ![OUTPUT](https://github.com/gunasekhar159/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/img%203.jpg?raw=True)
 ### TIMING DIAGRAM
-![OUTPUT](https://github.com/gunasekhar159/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/img%204.jpg?raw=True)
+![OUTPUT](https://github.com/gunasekhar159/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/2.jpeg?raw=true)
 ### Full Adder:
 Logic symbol:
 ![OUTPUT](https://github.com/gunasekhar159/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/img%205.jpg?raw=True)
@@ -79,7 +79,7 @@ Logic symbol:
 ### TRUTH TABLE 
 ![OUTPUT](https://github.com/gunasekhar159/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/img%207.jpg?raw=True)
 ### TIMING DIAGRAM:
-![img 8](https://github.com/gunasekhar159/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/2.jpeg?raw=true)
+![output](https://github.com/gunasekhar159/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/22.jpeg?raw=true)
 
 ### Result:
 Thus, a half adder and full adder circuit is designed to verify its truth table in Quartus using Verilog programming.
